@@ -1,4 +1,5 @@
-#Connect Four
+Connect Four
+============
 
 The user uses the program by first being prompted to select her opponent. Inputting 1 selects a human opponent, while inputting 2 selects a computer opponent. After, the user is prompted during her turn to choose which column to put her next piece in. After selecting this, the piece is placed in the column, and the user must wait for the second player (another user, or a computer) to take its turn. This continues until the user wins or loses, since the here the program will display the winning player and end.
 
